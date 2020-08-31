@@ -9,3 +9,5 @@ build
 lod/cache/*.html
 lod/data/*.mp3
 lod/lod.txt
+package-lock.json
+yarn.lock
